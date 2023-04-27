@@ -1,0 +1,24 @@
+#homeMenuBackground{
+    background-color: Lavender;
+    height: 45px;
+    width: 100%;
+    position: static;
+    top: 100px;
+    left: 0;
+}
+
+#homeMenu{
+    color: #010E45;
+    font-size: 150%;
+}
+
+#titulo{
+    color: #010E45;
+    font-size: 50px;
+}
+
+.texto{
+    color: #010E45;
+    text-indent: 30px;
+    font: https://fonts.google.com/noto/specimen/Noto+Sans;
+}
