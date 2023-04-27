@@ -9,16 +9,16 @@
 
 #homeMenu{
     color: #010E45;
-    font-size: 150%;
+    font-size: 1%;
 }
 
 #titulo{
     color: #010E45;
-    font-size: 50px;
+    font-size: 5px;
 }
 
 .texto{
     color: #010E45;
-    text-indent: 30px;
+    text-indent: 300px;
     font: https://fonts.google.com/noto/specimen/Noto+Sans;
 }
